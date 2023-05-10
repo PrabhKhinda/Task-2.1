@@ -18,13 +18,11 @@ The Unit Converter App is a simple application that allows users to convert betw
 4. Click the "Convert" button.
 5. The converted value will be displayed in the text view.
 
-## Screenshots & Demo Video
+## Screenshots
 
 
-![s1](https://github.com/PrabhKhinda/Task-2.1/assets/133014455/ff720f83-4984-406b-b096-22310fbc845c)
+![ss1](https://github.com/PrabhKhinda/Task-2.1/assets/133014455/960d21e1-9b12-4f75-bb36-2ac6ec34690d)
 
-![s2](https://github.com/PrabhKhinda/Task-2.1/assets/133014455/fbfbbc58-a00b-46a8-8126-464a6a409b52)
+# Demo Video
+![app_demo](https://github.com/PrabhKhinda/Task-2.1/assets/133014455/c38e071a-c7a2-4ca8-a78f-50af43f6c704)
 
-![s3](https://github.com/PrabhKhinda/Task-2.1/assets/133014455/74b852c6-a658-4995-b11b-92a7bd4d2025)
-
-![s4](https://github.com/PrabhKhinda/Task-2.1/assets/133014455/8ef75b76-69cd-4530-ae4d-8fc8c134b778)
