@@ -21,8 +21,10 @@ The Unit Converter App is a simple application that allows users to convert betw
 ## Screenshots
 
 
-![ss1](https://github.com/PrabhKhinda/Task-2.1/assets/133014455/960d21e1-9b12-4f75-bb36-2ac6ec34690d)
+![ss1](https://github.com/PrabhKhinda/Task-2.1/assets/133014455/d19cff74-9833-4c37-af07-2d5013190705)
+
 
 # Demo Video
-![app_demo](https://github.com/PrabhKhinda/Task-2.1/assets/133014455/c38e071a-c7a2-4ca8-a78f-50af43f6c704)
+![app_demo](https://github.com/PrabhKhinda/Task-2.1/assets/133014455/22b58032-55f3-446e-b28e-23728acfe034)
+
 
